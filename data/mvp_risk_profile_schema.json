@@ -1,0 +1,44 @@
+{
+    "Location": [
+        "Property Address",
+        "Zip Code",
+        "State"
+    ],
+    "Property Info": [
+        "Property Name",
+        "Year Built",
+        "Construction Type",
+        "Roof Type & Age",
+        "Building Area (sq ft)",
+        "Number of Stories"
+    ],
+    "COPE / Use": [
+        "Occupancy Type",
+        "% Occupied",
+        "Hazardous Materials (Y/N)",
+        "Sprinkler System (Y/N)",
+        "Fire Alarm (Y/N)"
+    ],
+    "Values": [
+        "Building TIV",
+        "Contents TIV",
+        "BI/EE",
+        "Total TIV"
+    ],
+    "Loss History": [
+        "Prior Claims (Y/N)",
+        "Number of Claims",
+        "Total Loss Amount"
+    ],
+    "Natural Hazards": [
+        "Flood Zone (e.g., Zone X, AE)",
+        "Wildfire Risk (Low/Moderate/High or ISO Class)",
+        "Earthquake Exposure (Low/Moderate/High or ShakeMap Zone)"
+    ],
+    "Red Flags": [
+        "Roof > 20 yrs",
+        "No sprinklers",
+        "Next to high-hazard operations",
+        "Flood Zone AE"
+    ]
+}

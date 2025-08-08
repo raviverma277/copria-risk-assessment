@@ -1,0 +1,71 @@
+[
+    {
+        "Property Name": "Liberty Industrial Warehouse",
+        "Location": {
+            "Address": "3500 Liberty Avenue",
+            "City": "Dallas",
+            "State": "TX",
+            "ZIP": "75220"
+        },
+        "Total Insured Value (USD)": 12500000,
+        "Property Description": "Single-story steel frame industrial warehouse with concrete walls and metal roof. Built in 2005. Total area: 75,000 sq ft.",
+        "Occupancy Details": "Used for storage and distribution of electronics and home appliances. Operated by Liberty Logistics Inc.",
+        "COPE": {
+            "Construction": "Metal Frame with concrete walls",
+            "Occupancy": "Logistics and storage",
+            "Protection": "Sprinklers, hydrants, alarm system",
+            "Exposure": "Surrounded by similar industrial warehouses"
+        },
+        "Loss History": "Minor water damage in 2018 (claim settled at $15,000). No major claims in past 5 years.",
+        "Risk Factors": "Stored goods include lithium batteries. Moderate fire risk due to storage density.",
+        "Fire Protection": "NFPA-compliant sprinklers, 24/7 monitored alarm system, 2 hydrants within 300 ft.",
+        "Natural Hazard Exposure": "Low flood zone. Tornado exposure moderate (FEMA Zone III).",
+        "Security Info": "Fenced perimeter, badge-access entry, 24-hour on-site security personnel"
+    },
+    {
+        "Property Name": "Summit Executive Offices",
+        "Location": {
+            "Address": "8900 East Union Blvd",
+            "City": "Denver",
+            "State": "CO",
+            "ZIP": "80237"
+        },
+        "Total Insured Value (USD)": 22000000,
+        "Property Description": "Class A 10-story glass and steel office building. Built in 2012. Area: 200,000 sq ft.",
+        "Occupancy Details": "Multi-tenant space including law firms, consulting firms, and a co-working operator.",
+        "COPE": {
+            "Construction": "Steel frame with curtain wall system",
+            "Occupancy": "Professional offices",
+            "Protection": "Fire detection and suppression system",
+            "Exposure": "Adjacent to another mid-rise office tower and a parking structure"
+        },
+        "Loss History": "No claims in the last 10 years.",
+        "Risk Factors": "High foot traffic, underground parking, elevators and HVAC centralized systems.",
+        "Fire Protection": "Full sprinkler coverage, dual alarm systems, fire-rated stairwells.",
+        "Natural Hazard Exposure": "Seismic risk low, snow and ice exposure in winter months.",
+        "Security Info": "Card access, security cameras on each floor, manned lobby during business hours"
+    },
+    {
+        "Property Name": "Bay Area Logistics Terminal",
+        "Location": {
+            "Address": "1200 Harbor Way South",
+            "City": "Richmond",
+            "State": "CA",
+            "ZIP": "94804"
+        },
+        "Total Insured Value (USD)": 17500000,
+        "Property Description": "Dockside terminal warehouse for shipping containers. Built in 1998. Total area: 90,000 sq ft.",
+        "Occupancy Details": "Used by Bay Area Shipping Co. for receiving, short-term storage and sorting of containerized freight.",
+        "COPE": {
+            "Construction": "Reinforced concrete with metal roof",
+            "Occupancy": "Maritime logistics",
+            "Protection": "Fire suppression with overhead sprinklers, water curtains",
+            "Exposure": "Near marine terminal; exposed to salt corrosion and coastal weather"
+        },
+        "Loss History": "One partial roof collapse due to storm in 2020. Claim: $150,000. Fully repaired.",
+        "Risk Factors": "Heavy vehicle movement, fuel storage nearby, corrosive marine air.",
+        "Fire Protection": "Foam and water-based systems, emergency extinguishers, trained staff.",
+        "Natural Hazard Exposure": "Earthquake zone (moderate), high wind and saltwater exposure.",
+        "Security Info": "Port authority surveillance, motion-detecting perimeter sensors, controlled entry for trucks"
+    }
+]

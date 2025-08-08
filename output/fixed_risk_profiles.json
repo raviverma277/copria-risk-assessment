@@ -1,0 +1,38 @@
+[
+  {
+    "Property Address": "321 Supply Chain Blvd",
+    "Zip Code": "",
+    "State": "TX",
+    "Property Name": "Warehouse Delta",
+    "Year Built": "1980",
+    "Construction Type": "Reinforced concrete",
+    "Roof Type & Age": "",
+    "Building Area (sq ft)": "",
+    "Number of Stories": "Single-story",
+    "Occupancy Type": "Warehouse",
+    "% Occupied": "",
+    "Hazardous Materials (Y/N)": "Yes",
+    "Sprinkler System (Y/N)": "No",
+    "Fire Alarm (Y/N)": "Yes",
+    "Building TIV": "",
+    "Contents TIV": "",
+    "BI/EE": "",
+    "Total TIV": "$18,000,000",
+    "Prior Claims (Y/N)": "Yes",
+    "Number of Claims": "2",
+    "Total Loss Amount": "$600,000",
+    "Flood Zone (e.g., Zone X, AE)": "Zone AE",
+    "Wildfire Risk (Low/Moderate/High or ISO Class)": "Low",
+    "Earthquake Exposure (Low/Moderate/High or ShakeMap Zone)": "Medium-level",
+    "Roof > 20 yrs": "Yes",
+    "No sprinklers": "",
+    "Next to high-hazard operations": "",
+    "Flood Zone AE": "",
+    "Red Flags": [
+      "No sprinkler protection",
+      "Located in high-risk flood zone",
+      "Roof is older than 20 years",
+      "Hazardous materials present on site"
+    ]
+  }
+]

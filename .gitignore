@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local env
+.env
+
+# Output & cache
+output/
+.streamlit/cache/
+.streamlit/state/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
